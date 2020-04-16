@@ -7,3 +7,8 @@ export.py
 test.py
 template.py
 template.ipynb
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
