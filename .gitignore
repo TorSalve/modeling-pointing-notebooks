@@ -1,0 +1,9 @@
+export/
+!pointing_model/export
+data_export/*
+!data_export/*.csv
+notebook_backup/
+export.py
+test.py
+template.py
+template.ipynb
